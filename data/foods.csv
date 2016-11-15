@@ -1,20 +1,20 @@
 Food,Category,Edible?,Limit?
 Garlic,Vegetables and Legumes,No,-
 Onion,Vegetables and Legumes,No,-
-Bamboo shoots,Vegetables and Legumes,Yes,-
-Bean sprouts,Vegetables and Legumes,Yes,-
+Bamboo shoot,Vegetables and Legumes,Yes,-
+Bean sprout,Vegetables and Legumes,Yes,-
 Bok Choy,Vegetables and Legumes,Yes,-
 Broccoli,Vegetables and Legumes,Yes,1/2 cup max
 "Cabbage, common and red",Vegetables and Legumes,Yes,-
-Carrots,Vegetables and Legumes,Yes,-
+Carrot,Vegetables and Legumes,Yes,-
 Celery ,Vegetables and Legumes,Yes with limits,5cm stalk max
-Chick peas,Vegetables and Legumes,Yes with limits,1/4 cup max
+Chickpea,Vegetables and Legumes,Yes with limits,1/4 cup max
 Corn ,Vegetables and Legumes,Yes with limits,1/2 cob max
 Zucchini,Vegetables and Legumes,Yes,-
 Chilli,Vegetables and Legumes,Yes,-
 Cucumber,Vegetables and Legumes,Yes,-
 Eggplant,Vegetables and Legumes,Yes,-
-Green beans,Vegetables and Legumes,Yes,-
+Green bean,Vegetables and Legumes,Yes,-
 Capsicum (green and red),Vegetables and Legumes,Yes,-
 Kale,Vegetables and Legumes,Yes,-
 "Lettuce e.g. Butter, iceberg, rocket",Vegetables and Legumes,Yes,-
@@ -25,35 +25,35 @@ Pumpkin,Vegetables and Legumes,Yes,-
 Rocket,Vegetables and Legumes,Yes,-
 Tomato,Vegetables and Legumes,Yes,-
 Ginger,Vegetables and Legumes,Yes,-
-Olives,Vegetables and Legumes,Yes,-
-Scallions / spring onions ,Vegetables and Legumes,Yes with limits,Green part only
+Olive,Vegetables and Legumes,Yes,-
+"Scallion/spring onion" ,Vegetables and Legumes,Yes with limits,Green part only
 Squash,Vegetables and Legumes,Yes,-
 Sweet potato,Vegetables and Legumes,Yes,-
-Seaweed (nori),Vegetables and Legumes,Yes,-
+Seaweed(nori),Vegetables and Legumes,Yes,-
 Spinach,Vegetables and Legumes,Yes,-
 Aparagus,Vegetables and Legumes,No,-
-Artichokes,Vegetables and Legumes,No,-
-"Beans e.g. black, broad, kidney, lima, soya",Vegetables and Legumes,No,-
+Artichoke,Vegetables and Legumes,No,-
+"Bean e.g. black, broad, kidney, lima, soya",Vegetables and Legumes,No,-
 Cauliflower,Vegetables and Legumes,No,-
 "Cabbage, savoy",Vegetables and Legumes,No,-
 Sweet Corn,Vegetables and Legumes,No,-
-Peas in a pod,Vegetables and Legumes,No,-
-Mushrooms,Vegetables and Legumes,No,-
+Snowpea,Vegetables and Legumes,No,-
+Mushroom,Vegetables and Legumes,No,-
 Radicchio,Vegetables and Legumes,No,-
-Peas,Vegetables and Legumes,No,-
-Scallions / spring onions ,Vegetables and Legumes,No,-
-Bananas,Fruit,Yes,-
-Blueberries,Fruit,Yes,-
+Pea,Vegetables and Legumes,No,-
+"Scallion/spring onion",Vegetables and Legumes,No with limits,White part only
+Banana,Fruit,Yes,-
+Blueberry,Fruit,Yes,-
 Cantaloupe,Fruit,Yes,-
 Cranberry,Fruit,Yes,-
 Coconut,Fruit,Yes,-
 Clementine,Fruit,Yes,-
 Dragon Fruit,Fruit,Yes,-
-Grapes,Fruit,Yes,-
-"Melons e.g. Honeydew, galia",Fruit,Yes,-
+Grape,Fruit,Yes,-
+"Melon e.g. Honeydew, galia",Fruit,Yes,-
 Kiwifruit,Fruit,Yes,-
 Lemon,Fruit,Yes,-
-Limes,Fruit,Yes,-
+Lime,Fruit,Yes,-
 Mandarin,Fruit,Yes,-
 Orange,Fruit,Yes,-
 Pineapple,Fruit,Yes,-
@@ -62,21 +62,21 @@ Passionfruit,Fruit,Yes,-
 Raspberry,Fruit,Yes,-
 Rhubarb,Fruit,Yes,-
 Strawberry,Fruit,Yes,-
-Tangelos,Fruit,Yes,-
-Apples,Fruit,No,-
+Tangelo,Fruit,Yes,-
+Apple,Fruit,No,-
 Apricot,Fruit,No,-
 Avocado,Fruit,Yes with limits,1/4 fruit max
-Blackberries,Fruit,No,-
+Blackberry,Fruit,No,-
 Boysenberry,Fruit,No,-
 Cherry,Fruit,No,-
 Grapefruit,Fruit,No,-
 Mango,Fruit,No,-
-Peaches,Fruit,No,-
-Pears,Fruit,No,-
-Plums,Fruit,No,-
-Prines,Fruit,No,-
-Raisins,Fruit,No,-
-Sultanas,Fruit,No,-
+Peach,Fruit,No,-
+Pear,Fruit,No,-
+Plum,Fruit,No,-
+Prune,Fruit,No,-
+Raisin,Fruit,No,-
+Sultana,Fruit,No,-
 Watermelon,Fruit,No,-
 Beef,Meat and substitutes,Yes,-
 Chicken,Meat and substitutes,Yes,-
@@ -91,57 +91,57 @@ Fish,Meat and substitutes,Yes,-
 Tuna (canned),Meat and substitutes,Yes,-
 Egg,Meat and substitutes,Yes,-
 Chorizo,Meat and substitutes,No,-
-Sausages,Meat and substitutes,No,-
+Sausage,Meat and substitutes,No,-
 Processed meat,Meat and substitutes,No with limits,Check ingredients
 Oats,"Breads, Cereals, Grains and Pasta",Yes,-
 Quinoa,"Breads, Cereals, Grains and Pasta",Yes,-
 "Gluten free foods e.g. breads, pasta","Breads, Cereals, Grains and Pasta",Yes,-
-Savory biscuits,"Breads, Cereals, Grains and Pasta",Yes,-
-Buckwheat Chips / crisps (plain),"Breads, Cereals, Grains and Pasta",Yes,-
+Savory biscuit,"Breads, Cereals, Grains and Pasta",Yes,-
+Buckwheat Chips(plain),"Breads, Cereals, Grains and Pasta",Yes,-
 Cornflour Oatmeal,"Breads, Cereals, Grains and Pasta",Yes with limits,1/2 cup max
 Rice,"Breads, Cereals, Grains and Pasta",Yes with limits,"Brown, white, basmati"
 Tortilla chips,"Breads, Cereals, Grains and Pasta",Yes,-
 Polenta,"Breads, Cereals, Grains and Pasta",Yes,-
 Flour,"Breads, Cereals, Grains and Pasta",Yes with limits,"Corn, buckwheat, quinoa, rice"
-Soba noodles,"Breads, Cereals, Grains and Pasta",Yes,-
+Soba noodle,"Breads, Cereals, Grains and Pasta",Yes,-
 Barley,"Breads, Cereals, Grains and Pasta",No,-
 Bran,"Breads, Cereals, Grains and Pasta",No,-
 Cous cous,"Breads, Cereals, Grains and Pasta",No,-
 Gnocchi,"Breads, Cereals, Grains and Pasta",No,-
 Granola,"Breads, Cereals, Grains and Pasta",No,-
 Muesli,"Breads, Cereals, Grains and Pasta",No,-
-Muffins,"Breads, Cereals, Grains and Pasta",No,-
+Muffin,"Breads, Cereals, Grains and Pasta",No,-
 Rye,"Breads, Cereals, Grains and Pasta",No,-
 Semolina,"Breads, Cereals, Grains and Pasta",No,-
 Spelt,"Breads, Cereals, Grains and Pasta",No,-
-"Wheat foods e.g. Bread, cereal, pasta","Breads, Cereals, Grains and Pasta",No,-
-Almonds,Nuts and Seeds,Yes with limits,15 pieces max
-Chestnuts,Nuts and Seeds,Yes,-
-Chia seeds,Nuts and Seeds,Yes,-
-Hazelnuts,Nuts and Seeds,Yes,-
-Macademia nuts,Nuts and Seeds,Yes,-
-Peanuts,Nuts and Seeds,Yes,-
-Pecans ,Nuts and Seeds,Yes with limits,15 pieces max
-Poppy seeds,Nuts and Seeds,Yes,-
-Pumpkin seeds,Nuts and Seeds,Yes,-
-Sesame seeds,Nuts and Seeds,Yes,-
-Sunflower seeds,Nuts and Seeds,Yes,-
-Walnuts,Nuts and Seeds,Yes,-
-Cashews,Nuts and Seeds,No,-
+"Wheat e.g. Bread, cereal, pasta","Breads, Cereals, Grains and Pasta",No,-
+Almond,Nuts and Seeds,Yes with limits,15 pieces max
+Chestnut,Nuts and Seeds,Yes,-
+Chia seed,Nuts and Seeds,Yes,-
+Hazelnut,Nuts and Seeds,Yes,-
+Macademia nut,Nuts and Seeds,Yes,-
+Peanut,Nuts and Seeds,Yes,-
+Pecan,Nuts and Seeds,Yes with limits,15 pieces max
+Poppy seed,Nuts and Seeds,Yes,-
+Pumpkin seed,Nuts and Seeds,Yes,-
+Sesame seed,Nuts and Seeds,Yes,-
+Sunflower seed,Nuts and Seeds,Yes,-
+Walnut,Nuts and Seeds,Yes,-
+Cashew,Nuts and Seeds,No,-
 Pistachio,Nuts and Seeds,No,-
 Almond milk,Milk,Yes,-
 Coconut milk,Milk,Yes,-
 Hemp milk,Milk,Yes,-
 Lactose free milk,Milk,Yes,-
-Oat milk ,Milk,Yes with limits,30ml max
-Soya milk ,Milk,Yes with limits,Made with soy protein
+Oat milk,Milk,Yes with limits,30ml max
+Soya milk,Milk,Yes with limits,Made with soy protein
 Cow milk,Milk,No,-
 Evaporated milk,Milk,No,-
 Goat milk,Milk,No,-
 Rice milk,Milk,No,-
 Sheep's milk,Milk,No,-
 Soy milk,Milk,No with limits,Made with soy beans
-Butter   ,Dairy,Yes,-
+Butter,Dairy,Yes,-
 Dark chocolate,Dairy,Yes,-
 Milk chocolate ,Dairy,Yes with limits,3 squares max
 White chocolate,Dairy,Yes with limits,3 squares max
@@ -178,12 +178,12 @@ Wasabi,Condiments,Yes with limits,1 tsp max
 Sesame oil,Condiments,Yes,-
 Vinegar,Condiments,Yes with limits,"Apple cider, balsamic, rice wine - 2 tbsp max."
 Oil,Condiments,Yes with limits,"Avocado, canola, coconut, sunflower, vegetable"
-Capers,Condiments,Yes with limits,1 tbsp max.
+Caper,Condiments,Yes with limits,1 tbsp max.
 Vegemite,Condiments,Yes with limits,1 tsp max.
 Cumin,Condiments,Yes,-
 Paprika,Condiments,Yes,-
 Hommus dip,Condiments,No,-
-Jam (mixed berries),Condiments,No,-
+Jam(mixed berries),Condiments,No,-
 Pasta sauce (cream based),Condiments,No,-
 Relish,Condiments,No,-
 Tzatziki dip,Condiments,No,-
@@ -193,9 +193,9 @@ Glucose,Sweeteners,Yes,-
 Saccharine,Sweeteners,Yes,-
 Stevia,Sweeteners,Yes,-
 Sucralose,Sweeteners,Yes,-
-Sugar / sucrose,Sweeteners,Yes,-
+"Sugar/sucrose",Sweeteners,Yes,-
 Agave,Sweeteners,No,-
-High Frucose Corn Syrup (HFCS),Sweeteners,No,-
+High Frucose Corn Syrup(HFCS),Sweeteners,No,-
 Honey,Sweeteners,No,-
 Inulin,Sweeteners,No,-
 Isomalt,Sweeteners,No,-
@@ -204,7 +204,7 @@ Mannitol,Sweeteners,No,-
 Sorbitol,Sweeteners,No,-
 Xylitol,Sweeteners,No with limits,"Sugar-free gum, mints, cough drops"
 Beer ,Drinks,Yes with limits,1 max
-"Coffee, black",Drinks,Yes,-
+Caffine,Drinks,Yes with limit,Black
 Drinking chocolate powder,Drinks,Yes,-
 Tea,Drinks,Yes with limits,"Black, white, green"
 Orange juice (125ml max),Drinks,Yes with limits,-
@@ -218,11 +218,11 @@ Coconut water,Drinks,No,-
 Apple juice,Drinks,No,-
 Pear juice,Drinks,No,-
 Mango juice,Drinks,No,-
-Sodas with HFCS,Drinks,No,-
+Soda with HFCS,Drinks,No,-
 Fennel tea,Drinks,No,-
 Rum,Drinks,No,-
 Tea,Drinks,No with limits,"Chamomile, fennel & oolong"
-Kettles Baked Potato Chips,Snacks,Yes with limits,Sea Salt flavour
-Rice Cakes,Snacks,Yes,2 plain max
-Rice Crackers,Snacks,Yes with limits,20 plain max
+"Kettle's Baked Potato Chips",Snacks,Yes with limits,Sea Salt flavour
+Rice Cake,Snacks,Yes,2 plain max
+Rice Cracker,Snacks,Yes with limits,20 plain max
 Jelly,Snacks,Yes with limits,250ml max
